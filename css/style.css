@@ -8,6 +8,12 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 .nav-container {
   display: flex;
   flex-direction: row;
@@ -49,12 +55,6 @@ body {
 
 .nav-container-up-right a:hover {
   color: rgb(196, 13, 13);
-}
-
-header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
 }
 
 .logo {
