@@ -8,8 +8,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Authors
 
-- [@Victoria](https://github.com/VctoriaQ)
-- [@Margareta](https://github.com/margareta75)
+- [@Gosia](https://github.com/margareta75)
 - [@Moa](https://github.com/moa.rudsater1)
 - [@Arbie](https://github.com/ArbieTech)
 
