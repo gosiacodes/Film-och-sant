@@ -1,18 +1,18 @@
-# Grit-IMDb
+## "Film Å Sånt"
 
-Find reviews for the newest movie and TV shows.
+### School project at Version Control System course - testing Git and GitHub (2022)
 
-## Contributing
+https://margareta75.github.io/Film-och-sant/
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+### Find reviews for the newest movie and TV shows.
 
-## Authors
+### Authors
 
 - [@Gosia](https://github.com/margareta75)
 - [@Moa](https://github.com/moa.rudsater1)
 - [@Arbie](https://github.com/ArbieTech)
 
-## License
+### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
