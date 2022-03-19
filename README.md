@@ -4,15 +4,17 @@
 
 https://margareta75.github.io/Film-och-sant/
 
-### Find reviews for the newest movie and TV shows.
+Find reviews for the newest movie and TV shows - website example.
 
-### Authors
+Made for testing work with Git & GitHub, GitHub Desktop, GitHub Pages.
+
+### 📌 _Authors_
 
 - [@Gosia](https://github.com/margareta75)
 - [@Moa](https://github.com/moa.rudsater1)
 - [@Arbie](https://github.com/ArbieTech)
 
-### License
+### 📌 _License_
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
