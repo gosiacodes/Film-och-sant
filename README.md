@@ -1,4 +1,4 @@
-## "Film Å Sånt"
+## ✨ "Film Å Sånt" ✨
 
 ### School project at Version Control System course - testing Git and GitHub (2022)
 
