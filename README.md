@@ -10,7 +10,7 @@ Made for testing work with Git & GitHub, GitHub Desktop, GitHub Pages.
 
 ## 📌 _Authors_
 
-- [@Gosia](https://github.com/margareta75)
+- [@Gosia](https://github.com/gosiacodes)
 - [@Moa](https://github.com/moa.rudsater1)
 - [@Arbie](https://github.com/ArbieTech)
 
