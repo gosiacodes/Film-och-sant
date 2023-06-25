@@ -2,7 +2,7 @@
 
 ## School project at Version Control System course - testing Git and GitHub (2022)
 
-https://margareta75.github.io/Film-och-sant/
+https://gosiacodes.github.io/Film-och-sant/
 
 Find reviews for the newest movie and TV shows - website example.
 
